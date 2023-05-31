@@ -1,35 +1,35 @@
 [
   {
     "name": "Algeria",
-    "flag": "https://raw.githubusercontent.com/berkakbas/CountryDataSet/master/dza.png",
+    "flag": "https://raw.githubusercontent.com/berkakbas/CountryDataSet/master/dza.png"
   },
-{
+  {
     "name": "Andorra",
-    "flag": "https://raw.githubusercontent.com/berkakbas/CountryDataSet/master/and.png",
+    "flag": "https://raw.githubusercontent.com/berkakbas/CountryDataSet/master/and.png"
   },
   {
     "name": "Antartica",
-    "flag": "https://raw.githubusercontent.com/berkakbas/CountryDataSet/master/ata.png",
+    "flag": "https://raw.githubusercontent.com/berkakbas/CountryDataSet/master/ata.png"
   },
   {
     "name": "Azerbaijan",
-    "flag": "https://raw.githubusercontent.com/berkakbas/CountryDataSet/master/aze.png",
+    "flag": "https://raw.githubusercontent.com/berkakbas/CountryDataSet/master/aze.png"
   },
   {
     "name": "Belgium",
-    "flag": "https://raw.githubusercontent.com/berkakbas/CountryDataSet/master/bel.png",
+    "flag": "https://raw.githubusercontent.com/berkakbas/CountryDataSet/master/bel.png"
   },
 
-{
+  {
     "name": "Brazil",
-    "flag": "https://raw.githubusercontent.com/berkakbas/CountryDataSet/master/bra.png",
+    "flag": "https://raw.githubusercontent.com/berkakbas/CountryDataSet/master/bra.png"
   },
-{
+  {
     "name": "Cambodia",
-    "flag": "https://raw.githubusercontent.com/berkakbas/CountryDataSet/master/khm.png",
+    "flag": "https://raw.githubusercontent.com/berkakbas/CountryDataSet/master/khm.png"
   },
-{
+  {
     "name": "Canada",
-    "flag": "https://raw.githubusercontent.com/berkakbas/CountryDataSet/master/can.png",
-  },
+    "flag": "https://raw.githubusercontent.com/berkakbas/CountryDataSet/master/can.png"
+  }
 ]
